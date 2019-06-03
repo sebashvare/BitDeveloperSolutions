@@ -1,0 +1,40 @@
+.col-12.col-lg-6.col-xl-5 {
+}
+
+.row {
+  display:-ms-flexbox;
+  display:flex;
+  -ms-flex-wrap:wrap;
+  flex-wrap:wrap;
+  margin-right:-15px;
+  margin-left:-15px;
+  flex-direction:row;
+}
+
+.informations {
+}
+
+#informations p {
+  color:#d9d9d9;
+}
+
+.navbar-text {
+  display:inline-block;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+.description {
+  text-align:justify;
+}
+
+.img__custom {
+  width:160px;
+  height:160px;
+}
+
+.navbar-dark .navbar-text {
+  color:rgba(255,255,255,.5);
+  font-weight:bold;
+}
+
